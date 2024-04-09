@@ -20,4 +20,5 @@ echo "https://example.com/?message=hello" | ./SQL-Fury.py
 cat endpoints.txt | ./SQL-Fury.py
 ```
 
-![Screenshot](/image.jpg "Screenshot").
+## Screenshot:
+![Screenshot](/image.png "Screenshot").
